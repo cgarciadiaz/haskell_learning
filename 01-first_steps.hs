@@ -27,8 +27,13 @@ not False
 not (True && True)
 5 == 5
 5 /= 5
+-- succ :: Enum a => a -> a     Devuelve el siguiente elemento de un elemento
+-- min :: Ord a => a -> a -> a  Devuelve el valor máximo de 2 elementos
 --Succesor function
-succ 8
+--succ 8 --> 9
+succ 8 
+--succ 'y' --> 'z'
+succ 'y'
 --Max and min function
 min 9 10
 max 9 10
