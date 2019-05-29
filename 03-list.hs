@@ -29,6 +29,10 @@ a ++ f
 5:[1,2,3,4,5]
 --Dará un error al intentar realizar una unión de dos variables con diferente tipo.
 'a':[1,2,3]
+--1:(2:[]) -->[1,2]
+1:(2:[])
+--1:2:3:[] --> [1,2,3]
+1:2:3:[] 
 --Operador !! Para buscar por índices
 "Buenos días señores" !! 5
 --Unir listas con listas
@@ -155,3 +159,5 @@ sum [8.4,4.7,2,1,5,6]
 elem 4 [3,4,5,6]
 --0 `elem` [3,4,5,6] --> False
 0 `elem` [3,4,5,6] 
+
+-- :? --> lista de comandos disponibles en el prompt
