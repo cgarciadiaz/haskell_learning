@@ -1,0 +1,10 @@
+--Aprende Haskell en inglés
+http://learnyouahaskell.com/chapters
+--Aprende Haskell en castellano
+http://aprendehaskell.es/main.html
+--Por qué deberías empezar a aprender la programación funcional
+https://www.youtube.com/watch?v=YU2i3L-euB0
+--Google Haskell Trainings
+https://github.com/google/haskell-trainings
+--Aprender Haskell varios recursos
+https://github.com/bitemyapp/learnhaskell/blob/master/guide-es.md
