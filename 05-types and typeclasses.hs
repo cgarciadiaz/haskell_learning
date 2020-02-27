@@ -86,4 +86,4 @@ Enum
 Bounded
 Num
 Integral
-Floating 
+Floating
